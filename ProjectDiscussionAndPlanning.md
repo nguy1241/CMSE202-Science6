@@ -18,4 +18,13 @@ Goal: To create a script/ program that takes in features of a star cluster (i.e.
 - What machine learning model should we use? 
 - How do we determine the accuracy of our ML model.
 
+Dataset features:
+- Star temp
+- Star diameter
+- Distance to star
+- Wavelength of light emitted of a star
+- Class of star cluster
+Create notebook and add background info. 
+
+# Project roles
 
