@@ -9,3 +9,14 @@ Objectives for this week are to get caught up on what this project is about. Stu
 
 Main goal for this week: Find a good dataset that we can work with.
 
+# Monday, 4 November 2024
+We found two data sets for open and globular clusters. We chose two features to plot and classify:
+- the B-V index
+- the true diameter
+
+We calculate the true diameter by using the angular size, in rad, and distance to the Sun, in any distance unit and apply the following formula:
+
+actual diameter = angular size * distance to sun
+
+The next step is to download all the data, caculate the true diameter for each cluster, then plot these features to see if we can apply a logistic regression or perceptron model. 
+
