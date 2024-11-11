@@ -20,3 +20,8 @@ actual diameter = angular size * distance to sun
 
 The next step is to download all the data, caculate the true diameter for each cluster, then plot these features to see if we can apply a logistic regression or perceptron model. 
 
+# Monday, 11 November 2024
+Since the rubric requires collaborative work and it requires us to test multiple models, we should split the work into two groups (2 ppl per). 
+- **Logitistics regression model**: One group conducts a logistic regression on the data and present their findings.
+- **Linear regression/ any other OLS or data analysis model**: Another group does ML on this different model and present their findings.
+- One last person will compile BOTH these models and do a comparison of the pros and cons of each, comparing how they both performed.
