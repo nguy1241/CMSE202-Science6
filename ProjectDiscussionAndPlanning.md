@@ -27,4 +27,5 @@ Dataset features:
 Create notebook and add background info. 
 
 # Project roles
-
+- Logistic regression model: Matthew, Kennedy
+- Linear/ other model: Gui, Vaibhav
