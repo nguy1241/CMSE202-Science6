@@ -25,3 +25,6 @@ Since the rubric requires collaborative work and it requires us to test multiple
 - **Logitistics regression model**: One group conducts a logistic regression on the data and present their findings.
 - **Linear regression/ any other OLS or data analysis model**: Another group does ML on this different model and present their findings.
 - One last person will compile BOTH these models and do a comparison of the pros and cons of each, comparing how they both performed.
+
+# Thursday, 14 November 2024
+Updated the code to fix dataset reading in branches "test" and "Logisitic\_regression". Started presentation slides. Finalized what we are going to present.
